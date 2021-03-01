@@ -1,0 +1,53 @@
+body { 
+  width: 850px;
+  height: 774px;
+  font-family: 'Nunito', sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+main {
+    display: flex;
+    justify-content: center;
+    background-image: url(./astronaut-4106766_1920.jpg);
+    background-size: cover;
+    width: 850px;
+    height: 450px;
+    align-items: center;
+    background-repeat: no-repeat;
+   margin: 2em;
+   margin-bottom: 10px;
+
+
+}
+h1 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 5em;
+    color: white;
+    font-weight: bolder;
+  
+}
+section {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(223, 213, 213);
+    height: 324px;
+    width: 850px;
+    margin: 2em;
+    margin-top: 3px;
+    box-sizing: border-box;
+
+}
+.Middle {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+article {
+    padding: 20px;
+    width: 270px;
+    padding-top: 10px;
+    
+}
+p{
+    line-height: 8mm;
+}
